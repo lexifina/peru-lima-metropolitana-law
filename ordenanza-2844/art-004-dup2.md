@@ -1,0 +1,1 @@
+Artículo 4.- Encargar a la Municipalidad Distrital de Villa María del Triunfo, en su calidad de administradora de los bienes desafectados, comunicar a la Superintendencia Nacional de Bienes Estatales la desafectación efectuada para los actos posteriores que fueran necesarios, de conformidad con la normativa aplicable.”
