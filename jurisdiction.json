@@ -1,0 +1,11 @@
+{
+  "path": "pe-lma",
+  "code": "PE-LMA",
+  "name": "Lima Metropolitana",
+  "level": "metropolitan municipality with regional functions",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-lima-metropolitana-law",
+  "build": "built: 122 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
