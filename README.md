@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-122 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+124 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -137,6 +137,8 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-2725/` | Ordenanza N° 2725: Ordenanza que aprueba la rectificación del plano de zonificación del distrito de Ate | in force 22 May 2025 |
 | `ordenanza-2727/` | Ordenanza N° 2727: Ordenanza que declara en emergencia y de interés metropolitano la intervención para el mejoramiento de la Av. 12 de Octubre, distrito de San … | in force 14 May 2025 |
 | `ordenanza-2726/` | Ordenanza N° 2726: Ordenanza que modifica la Ordenanza N° 2716 | in force 12 May 2025 |
+| `ordenanza-2869/` | Ordenanza N° 2869: Ordenanza que modifica el plano de zonificación del distrito de San Juan de Miraflores, aprobado por Ordenanza Nº 2144 | in force 6 November 2026 |
+| `ordenanza-2868/` | Ordenanza N° 2868: Ordenanza que modifica la nomenclatura de un área de recreación pública en el Cercado de Lima | in force 2 November 2026 |
 
 ## Source
 

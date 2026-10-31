@@ -1708,6 +1708,34 @@
      "sha256": "bd7ac4fbae4599370ec02d3f0ab8657503619e803d0872ba12a00495cea12e83"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-2869",
+   "short": "Ordenanza N° 2869",
+   "title": "Ordenanza N° 2869: Ordenanza que modifica el plano de zonificación del distrito de San Juan de Miraflores, aprobado por Ordenanza Nº 2144",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2571264-1",
+   "versions": [
+    {
+     "from": "2026-11-06",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/E6fTPJlW4oRBD8cF9zlc_V/*/2571264-1.pdf",
+     "sha256": "69c804603ce0cf2cb586ce6a36e60542c5d5a39f6b8c211c4a3cf13f07a2f2fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-2868",
+   "short": "Ordenanza N° 2868",
+   "title": "Ordenanza N° 2868: Ordenanza que modifica la nomenclatura de un área de recreación pública en el Cercado de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2570239-1",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/90WckU8g41oAqQEDOcj3_b/*/2570239-1.pdf",
+     "sha256": "0c30335b9ccbec74f33362094e553054cc92ff42f99df10fcc8ac74871f2ada7"
+    }
+   ]
   }
  ]
 }

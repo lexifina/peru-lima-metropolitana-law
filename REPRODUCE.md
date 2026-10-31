@@ -141,6 +141,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-2725` | Ordenanza N° 2725: Ordenanza que aprueba la rectificación del plano de zonificación del distrito de Ate | 1 | 2025-05-22 to 2025-05-22 |
 | `ordenanza-2727` | Ordenanza N° 2727: Ordenanza que declara en emergencia y de interés metropolitano la intervención para el mejoramiento de la Av. 12 de Octubre, distrito de San Martin de Porres | 1 | 2025-05-14 to 2025-05-14 |
 | `ordenanza-2726` | Ordenanza N° 2726: Ordenanza que modifica la Ordenanza N° 2716 | 1 | 2025-05-12 to 2025-05-12 |
+| `ordenanza-2869` | Ordenanza N° 2869: Ordenanza que modifica el plano de zonificación del distrito de San Juan de Miraflores, aprobado por Ordenanza Nº 2144 | 1 | 2026-11-06 to 2026-11-06 |
+| `ordenanza-2868` | Ordenanza N° 2868: Ordenanza que modifica la nomenclatura de un área de recreación pública en el Cercado de Lima | 1 | 2026-11-02 to 2026-11-02 |
 
 The build made 122 commits:
 
@@ -153,7 +155,7 @@ The build made 122 commits:
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 122 laws in the record.
+- 124 laws in the record.
 - 244 tags.
 
 ## Dates
@@ -166,13 +168,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5df220aad41acc6b995b36ba7d8b9e8f068365e3ce11a1785c3cedab7973b3ce` (772464 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `6142151bea89606e907a42e81b8820916795dbbfd7bc0cab7bbf566c8e323269` (782861 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-122 versions of 122 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
